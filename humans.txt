@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Benjy Stanton -- Organiser -- @benjystanton
+
+# THANKS
+
+    My wife and kids
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css
