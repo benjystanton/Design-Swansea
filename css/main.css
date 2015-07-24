@@ -23,13 +23,13 @@ body {
   font-family: "lft-etica",sans-serif;
   line-height: 1.5;
   margin: 0 auto;
+  text-align: center;
 }
 
 h1 {
   font-family: "etica-display","lft-etica",sans-serif;
   font-size: 3em;
   line-height: 1;
-  text-align: center;
 }
 
 h2 {
@@ -104,10 +104,6 @@ header .column {
     padding-bottom: 0;
 }
 
-.event-header {
-    text-align: center;
-}
-
 .event-header a {
     border-width: .2em;
 }
@@ -119,6 +115,14 @@ header .column {
 .speaker img {
   margin-top: 1em;
 }
+
+/* Sponsors */
+
+.sponsors li {
+  display: inline-block;
+}
+
+/* Media Queries */
 
 @media only screen and (min-width: 30em) {
 
