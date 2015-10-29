@@ -115,6 +115,18 @@ header .column {
   margin-top: 1em;
 }
 
+/* Sponsors */
+
+.sponsors li {
+  float: left;
+  width: 33.3%;
+  padding: 0 1em 1em;
+}
+
+.sponsors a {
+  border-bottom: none;
+}
+
 /* About */
 
 .about li {
@@ -129,15 +141,7 @@ header .column {
   margin-right: 0;
 }
 
-/* Sponsors */
-
-.sponsors li {
-  float: left;
-  width: 33.3%;
-  padding: 0 1em 1em;
-}
-
-.sponsors a {
+.about a {
   color: #999;
   border-bottom: none;
 }
@@ -180,7 +184,7 @@ header .column {
 
   body{font-size: 140%;}
 
-  .column {padding:0 2em 2em;}
+  .column {padding:0 2em 1em;}
 
   .sponsors {max-width: 40em;}
 
@@ -188,7 +192,7 @@ header .column {
 
 @media only screen and (min-width: 100em) {
 
-  .column {padding: 0 3em 3em;}
+  .column {padding: 0 3em 1em;}
 
   .button {margin-top: 1.2em;}
 
