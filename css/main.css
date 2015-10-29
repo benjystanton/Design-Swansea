@@ -39,10 +39,6 @@ h2 {
   line-height: 1.2;
 }
 
-h3 {
- font-style: italic;
-}
-
 h4 {
   margin-bottom: 0;
 }
@@ -112,6 +108,8 @@ header .column {
 .event-header a:hover, .event-header a:focus {
   border-width: .4em;
 }
+
+/* Speakers */
 
 .speaker img {
   margin-top: 1em;
