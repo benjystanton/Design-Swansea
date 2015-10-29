@@ -117,17 +117,17 @@ header .column {
   margin-top: 1em;
 }
 
-/* Sponsors */
+/* Sponsors & About */
 
-.sponsors li {
+.sponsors li, .about li {
   display: inline-block;
 }
 
-.sponsors a {
+.sponsors a, .about a {
   margin-right: 1em;
 }
 
-.sponsors li:last-child a {
+.sponsors li:last-child a, .about li:last-child a {
   margin-right: 0;
 }
 
