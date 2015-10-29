@@ -115,18 +115,31 @@ header .column {
   margin-top: 1em;
 }
 
-/* Sponsors & About */
+/* About */
 
-.sponsors li, .about li {
+.about li {
   display: inline-block;
 }
 
-.sponsors a, .about a {
+.about a {
   margin-right: 1em;
 }
 
-.sponsors li:last-child a, .about li:last-child a {
+.about li:last-child a {
   margin-right: 0;
+}
+
+/* Sponsors */
+
+.sponsors li {
+  float: left;
+  width: 33.3%;
+  padding: 0 1em 1em;
+}
+
+.sponsors a {
+  color: #999;
+  border-bottom: none;
 }
 
 /* Media Queries */
@@ -157,7 +170,7 @@ header .column {
 
   h1 {font-size: 5em;}
 
-  h2 {font-size: 3em;]
+  h2 {font-size: 3em;}
 
   .button {margin-top: 1em;}
 
@@ -168,6 +181,8 @@ header .column {
   body{font-size: 140%;}
 
   .column {padding:0 2em 2em;}
+
+  .sponsors {max-width: 40em;}
 
 }
 
