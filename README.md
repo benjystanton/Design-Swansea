@@ -8,3 +8,4 @@ A website for the [Design Swansea](http://designswansea.org.uk/) meet-up, held a
 - Add more generic information about the events
 - Add bit about the team Benjy and Gareth
 - Code of conduct
+- Call for speakers page
