@@ -146,6 +146,14 @@ header .column {
   border-bottom: none;
 }
 
+/* 4 up */
+
+.list-four li {
+  float: left;
+  padding: 0 1em 1em;
+  width: 25%;
+}
+
 /* Media Queries */
 
 @media only screen and (min-width: 30em) {
