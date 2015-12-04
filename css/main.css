@@ -119,7 +119,7 @@ header .column {
 
 .sponsors li {
   float: left;
-  width: 33.3%;
+  width: 50%;
   padding: 0 1em 1em;
 }
 
@@ -164,6 +164,8 @@ header .column {
 
   .event-header p {font-size: 1.2em;}
 
+  .sponsors li {width: 25%;}
+
 }
 
 @media only screen and (min-width: 45em) {
@@ -194,7 +196,7 @@ header .column {
 
   .column {padding:0 2em 1em;}
 
-  .sponsors {max-width: 40em;}
+  .sponsors {max-width: 60em;}
 
 }
 
