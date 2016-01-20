@@ -119,7 +119,7 @@ header .column {
 
 .sponsors li {
   float: left;
-  width: 50%;
+  width: 33.3%;
   padding: 0 1em 1em;
 }
 
@@ -164,7 +164,7 @@ header .column {
 
   .event-header p {font-size: 1.2em;}
 
-  .sponsors li {width: 25%;}
+  .sponsors li {width: 33.3%;}
 
 }
 
